@@ -73,18 +73,11 @@ h1{
   left: 30px;
 }
 
-.newsheader {
+.title {
   padding: 5px;  
   font-size: 300%;
   margin-bottom: 0px;
 }
-
-.shopheader {
-  padding: 5px;  
-  font-size: 300%;
-  margin-bottom: 0px;
-}
-
 
 .header {
   padding: 0px;
